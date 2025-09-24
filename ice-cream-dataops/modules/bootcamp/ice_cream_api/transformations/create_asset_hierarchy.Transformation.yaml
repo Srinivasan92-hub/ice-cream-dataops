@@ -19,3 +19,4 @@ authentication:
   tokenUri: {{ tokenUri }}
   cdfProjectName: {{ cdfProjectName }}
   scopes: {{ scopes }}
+  
